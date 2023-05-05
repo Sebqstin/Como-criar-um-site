@@ -5,6 +5,10 @@ margin: 0px;
 height: 250px;
 background: ;
 display: flex;
+{
+    justify-content: center;
+    justify-content: space-between;
+}
 align-items: center;
 
 }
