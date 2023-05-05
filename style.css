@@ -5,10 +5,12 @@ margin: 0px;
 height: 250px;
 background: ;
 display: flex;
-{
-    justify-content: center;
-
-}
 align-items: center;
 
 }
+
+.images2 {
+
+    display: flex;
+    justify-content: space-between;
+} 
