@@ -1,5 +1,5 @@
 .cabeçalho {
-    
+
 background-color: #FF9E9E;
 padding: 0px;
 margin: 0px;
@@ -9,6 +9,8 @@ display: flex;
 justify-content: space-between;
 flex-direction: row ;
 align-items: center;
+text-decoration-color: #FF0101;
+;
 }
 
 .titulo-corpo {
