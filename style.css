@@ -1,4 +1,5 @@
 .cabeçalho {
+    color: #ff0000;
 background-color: #FF9E9E;
 padding: 0px;
 margin: 0px;
@@ -13,5 +14,5 @@ align-items: center;
 .titulo-corpo {
     display: flex;
     justify-content: center;
-    
+
 }
