@@ -1,23 +1,5 @@
 .cabeçalho {
 
-/* 2ºB - Matemática II - PROGRAMAÇÃO */
-
-
-position: absolute;
-width: 796px;
-height: 65px;
-left: 322px;
-top: 69px;
-
-font-family: 'Bree Serif';
-font-style: normal;
-font-weight: 400;
-font-size: 48px;
-line-height: 65px;
-display: flex;
-align-items: center;
-text-align: center;
-
 color: #FF0101;
 
 background-color: #FF9E9E;
