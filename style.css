@@ -30,5 +30,5 @@ align-items: center;
     display: flex;
     align-items: center;
     font-size: 25px;
-    justify-content: space-around;
+    justify-content: center;
 }
