@@ -30,6 +30,6 @@ align-items: center;
     align-items: center;
     text-align: center;
     font-size: 25px;
-    justify-content:baseline;
+    justify-content:space-around;
 }
 
