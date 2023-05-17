@@ -27,9 +27,9 @@ align-items: center;
 
 .p2-p3-p4-p5 {
     display: flex;
-    align-items: baseline;
+    align-items: center;
     text-align: center;
     font-size: 25px;
-    justify-content: space-around;
+    justify-content:baseline;
 }
 
