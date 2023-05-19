@@ -32,7 +32,6 @@ align-items: center;
     font-size: 25px;
     justify-content: center;
     flex-direction: column;
-    background-color: #d40808;
 }
 
 .imagem2 {
@@ -54,4 +53,5 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #FF9D9D;
 }
