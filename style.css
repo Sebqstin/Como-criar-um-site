@@ -62,6 +62,8 @@ body {
 
 .texto {
     color: #FF0101;
+    font-style: normal;
+    font-family: 'bree-serif' ;
 }
 
 .texto-2 {
