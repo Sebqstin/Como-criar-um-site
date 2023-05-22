@@ -3,13 +3,11 @@ background-color: #FF9E9E;
 padding: 0px;
 margin: 0px;
 height: 250px;
-background: ;
 display: flex;
 justify-content: space-between;
 flex-direction: row ;
 align-items: center;
-font-family: 'Bree Serif';
-font-style: normal;
+font-style: 'Bree-Serif';
 
 }
 
@@ -64,7 +62,6 @@ body {
 
 .texto {
     color: #FF0101;
-    font-family:;
 }
 
 .texto-2 {
