@@ -67,5 +67,12 @@ body {
 }
 
 .texto-2 {
-    color: white;
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 61px;
+    display: flex;
+    align-items: center;
+    text-align: center;
 }
