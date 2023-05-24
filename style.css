@@ -1,71 +1,68 @@
-.cabeçalho {   
-background-color: #FF9E9E;
-padding: 0px;
-margin: 0px;
-height: 250px;
-display: flex;
-justify-content: space-between;
-flex-direction: row ;
-align-items: center;
-
-}
-
-.titulo-corpo {
-    display: flex;
-    justify-content: center;
-
-}
-
-.div-imagem-p1 {
-    display: flex;
-    align-items: center;
-    text-align: center;
-    font-size: 25px;
-    justify-content: space-around;
-}
-
-.body {
-    margin: 0%;
-    padding: 0%;
-}
-
-.header {
-    height: 250px;
-    align-items: center;
+body{
+    padding: 0px;
+    margin: 0px;
+    background: #FFEBEB;
+    font-family: 'Bree Serif', serif;
+    }
+    
+    .cabeçalho{
+    margin: 0px;
+    padding: 0px;
     background-color: #FF9E9E;
     display: flex;
-}
-
-.imagem-cabeçalho-1 {
-    height: 170px;
-    left: 70px ;
-    position: absolute;
-    width: 300px;
-    top: 17px;
-}
-
-.imagem-cabeçalho-2 {
-    height: 170px;
-    justify-content: space-around;
-    left: 1110px;
-    position: absolute;
-    width: 300px;
-    top: 17px;
-}
-
-.titulo-cabeçalho {
-    font-size: 48px;
-    font-family: 'Bree Serif';
-    font-style: normal;
-    font-weight: 400;
-    line-height: 65px;
-    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    color: #FF0101;
+    }
+    
+    .titulo-corpo{
     display: flex;
     justify-content: center;
-    position: absolute;
-    color: #FF9E9E;
-    width: 796px;
-    height: 65px;
-    left: 322px;
-    top: 69px;
-    } 
+    }
+    
+    .div-imagem-p1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 25px;
+    text-align: center;
+    
+    }
+    
+    .imagem-p1{
+    width: 400px;
+    }
+    
+    .p2-p3-p4-p5{
+    display: block;
+    font-size: 25px;
+    align-items: center;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    }
+    
+    .imagem-body{
+    width:800px;
+    text-align: center;
+    }
+    
+    .div-p6-p7-p8{
+    display: block;
+    font-size: 25px;
+    align-items: center;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    }
+    
+    .footer{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-color: #FF9E9E;
+    color: #ffffff;
+    left: 0px;
+    height: 84px;
+    }
