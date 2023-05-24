@@ -13,6 +13,7 @@ body{
     align-items: center;
     justify-content: space-between;
     color: #FF0101;
+    font-family: 'Rubik', sans-serif;
     }
     
     .titulo-corpo{
@@ -50,7 +51,7 @@ body{
     .div-p6-p7-p8{
     display: block;
     font-size: 25px;
-    align-items: center;
+    align-items: center;font-family: 'Rubik', sans-serif;
     padding: 20px;
     margin: 10px;
     text-align: center;
