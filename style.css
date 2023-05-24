@@ -7,7 +7,6 @@ display: flex;
 justify-content: space-between;
 flex-direction: row ;
 align-items: center;
-font-variant: 'Bree-Serif' ;
 
 }
 
@@ -25,4 +24,14 @@ font-variant: 'Bree-Serif' ;
     justify-content: space-around;
 }
 
+.body {
+    margin: 0%;
+    padding: 0%;
+}
 
+.header {
+    height: 250px;
+    align-items: center;
+    background-color: #FF9E9E;
+    display: flex;
+}
