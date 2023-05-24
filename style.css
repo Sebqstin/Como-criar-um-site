@@ -2,6 +2,7 @@ body{
     padding: 0px;
     margin: 0px;
     background: #FFEBEB;
+    font-family: 'Bree Serif', serif;
     }
     
     .cabeçalho{
@@ -55,12 +56,12 @@ body{
     text-align: center;
     }
     
-    footer{
+    .footer{
     display: flex;
     align-items: center;
     text-align: center;
     justify-content: center;
-    background-color:#FF9E9E;
+    background-color: #FF9E9E;
     color: #ffffff;
     left: 0px;
     height: 84px;
