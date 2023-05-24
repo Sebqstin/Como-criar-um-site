@@ -25,28 +25,4 @@ font-variant: 'Bree-Serif' ;
     justify-content: space-around;
 }
 
-.p2-p3-p4-p5 {
-    display: flex;
-    align-items: center;
-    text-align: center;
-    font-size: 25px;
-    justify-content: center;
-    flex-direction: column;
-}
-
-.imagem2 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.p6-p7-p8 {
-    display: flex;
-    align-items: center;
-    text-align: center;
-    font-size: 25px;
-    justify-content: center;
-    flex-direction: column;
-}
-
 
