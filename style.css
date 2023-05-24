@@ -52,3 +52,12 @@ align-items: center;
     width: 300px;
     top: 17px;
 }
+
+.titulo-cabeçalho {
+    font-size: 48px;
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 65px;
+
+}
