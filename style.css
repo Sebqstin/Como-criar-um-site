@@ -49,21 +49,4 @@ font-variant: 'Bree-Serif' ;
     flex-direction: column;
 }
 
-footer {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: #FF9D9D;
-}
 
-body {
-    background-color: #FFEBEB;
-}
-
-.texto {
-    color: #FF0101; 
-}
-
-.texto-2 {
-  color: white;
-}
