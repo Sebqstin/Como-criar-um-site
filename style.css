@@ -8,7 +8,7 @@ body{
     .cabeçalho{
     margin: 0px;
     padding: 0px;
-    background-color: #FF9E9E;
+    background-image: linear-gradient(#FF9E9E #ffffff00);
     display: flex;
     align-items: center;
     justify-content: space-between;
